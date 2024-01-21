@@ -1,0 +1,7 @@
+baseURL = 'https://scottlabram.uk'
+languageCode = 'en-us'
+title = 'Scott Labram'
+theme = "puppet"
+
+[markup.goldmark.renderer]
+unsafe = true

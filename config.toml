@@ -5,3 +5,38 @@ theme = "puppet"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[params.social.instagram]
+weight = 56
+icon = "fab fa-instagram"
+format = "https://www.instagram.com/%v"
+id = "scott.labram"
+url = "https://www.instagram.com/scott.labram"
+
+[params.social.facebook]
+weight = 56
+id = "scottlabram"
+url = "https://www.facebook.com/scottlabram"
+format = "https://facebook.com/%v"
+icon = "fab fa-facebook"
+
+[params.social.linkedin]
+weight = 56
+id = "scott-labram"
+format = "https://linkedin.com/in/%v"
+url = "https://www.linkedin.com/in/scott-labram"
+icon = "fab fa-linkedin"
+
+[params.social.whatsapp]
+weight = 43
+format = "https://wa.me/%v"
+id = "07415113573"
+url = "https://wa.me/07415113573"
+icon = "fab fa-whatsapp"
+
+[params.social.email]
+weight = 99
+format = "mailto:%v"
+icon = "far fa-envelope"
+id = "scottdlabram@gmail.com"
+url = "mailto:scottdlabram@gmail.com"

@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Scott Labram'
 theme = "puppet"
 
+[params]
+description = "Hello and welcome to my website. I am a 17 year old who is an aspiring pyro and lighting technician. I am currently learning how to use ETC's EOS systems and hope to lean MagicQ and MA2/3. I use depence r3 and am trying to learn how to make firework/pyro visualisations in Unreal Engine 5.3."
+
 [markup.goldmark.renderer]
 unsafe = true
 
@@ -28,15 +31,38 @@ url = "https://www.linkedin.com/in/scott-labram"
 icon = "fab fa-linkedin"
 
 [params.social.whatsapp]
-weight = 43
+weight = 99
 format = "https://wa.me/%v"
 id = "07415113573"
 url = "https://wa.me/07415113573"
 icon = "fab fa-whatsapp"
 
 [params.social.email]
-weight = 99
+weight = 1
 format = "mailto:%v"
 icon = "far fa-envelope"
 id = "scottdlabram@gmail.com"
 url = "mailto:scottdlabram@gmail.com"
+
+[[menu.main]]
+name = 'Home'
+pageref = '/'
+weight = 1
+
+[[menu.main]]
+name = 'Portfolio'
+pageref = '/portfolio'
+weight = 2
+
+[[menu.main]]
+name = 'Contact'
+pageref = '/contact'
+weight = 3
+
+[[menu.main]]
+name = 'Gallery'
+pageref = '/gallery'
+weight = 4
+
+[params.sidebar]
+enable = false

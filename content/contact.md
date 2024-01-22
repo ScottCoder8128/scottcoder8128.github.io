@@ -7,10 +7,10 @@ draft: false
 <hr>
 
 <div style="text-align: center;" markdown="1">
-{{< S >}}
+{{< ContactMeForm >}}
   <p>
   </p>
-{{< /S >}}
+{{< /ContactMeForm >}}
 </div>
 
 <hr>

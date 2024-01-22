@@ -35,7 +35,7 @@ I was the keylight operator and assisted in making the visuals with one other pe
 
 <hr>
 
-* <t style="font-size:20px;"> Level 3 Extended Diploma in Production Arts @ The BRIT School </t>  
+* <t style="font-size:20px;"> UAL Level 3 Extended Diploma in Production Arts @ The BRIT School </t>  
 <small>September 2023 - June 2025</small>
 <img src="/BritSchoolPA.jpg" alt="BRIT School Production Arts" width="150" height="150" align="right"/>  
 Not yet achived but am currently studying towards it. This course covers Lighting, Sound, Stage Managment, Set Design and Costume. I specialised in Lighting where we learned how to use ETC EOS, Capture, WYSYWIG and Vectorworks. <br>    We were assesed on how well we were able to put on aproduction alongside our peers.

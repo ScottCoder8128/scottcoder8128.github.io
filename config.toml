@@ -42,7 +42,6 @@ weight = 1
 format = "mailto:%v"
 icon = "far fa-envelope"
 id = "scottdlabram@gmail.com"
-url = "mailto:scottdlabram@gmail.com"
 
 [[menu.main]]
 name = 'Home'

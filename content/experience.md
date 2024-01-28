@@ -1,9 +1,9 @@
 ---
-title: "My Portfolio"
+title: "My Experience"
 date:
 draft: false
 short: false
-header_img: /new-portfolio-bg.jpg
+header_img: /experience-bg
 toc: true
 ---
 

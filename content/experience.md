@@ -3,7 +3,7 @@ title: "My Experience"
 date:
 draft: false
 short: false
-header_img: /experience-bg
+header_img: /experience-bg.jpg
 toc: true
 ---
 
@@ -12,6 +12,16 @@ toc: true
 <hr>
 
 ### In Education
+
+<hr>
+
+<a target="_blank" href="https://www.britkids.org/croydon/page/?title=Performing+Arts&pid=1035"><img src="/BRITKids.png" alt="BRIT Kids" width="125" height="125" align="right"/>  </a>
+
+* <t style="font-size:20px;"> BRIT Kids (Elements Street Dance Show) @ The BRIT School </t>   
+<small>February 2023</small>  
+I was the lighting operator for this show.
+
+<br>
 
 <hr>
 
@@ -28,7 +38,7 @@ I was the keylight operator and assisted in making the visuals with one other pe
 
 ### Out of Education
 
-<hr>
+
 
 ## Training
 

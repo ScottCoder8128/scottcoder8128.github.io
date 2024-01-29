@@ -6,6 +6,8 @@ theme = "puppet"
 [params]
 description = "Hello and welcome to my website. I am a 17 year old who is an aspiring pyro and lighting technician. I am currently learning how to use ETC's EOS systems and hope to lean MagicQ and MA2/3. I use depence r3 and am trying to learn how to make firework/pyro visualisations in Unreal Engine 5.3."
 
+useFaviconGenerator = true
+
 [markup.goldmark.renderer]
 unsafe = true
 
@@ -49,8 +51,8 @@ pageref = '/'
 weight = 1
 
 [[menu.main]]
-name = 'Portfolio'
-pageref = '/portfolio'
+name = 'Experience'
+pageref = '/experience'
 weight = 2
 
 [[menu.main]]

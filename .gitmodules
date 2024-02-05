@@ -1,5 +1,5 @@
 [submodule "themes/puppet"]
 	path = themes/puppet
-	url = https://github.com/roninro/hugo-theme-puppet
+	url = https://github.com/ScottCoder8128/hugo-theme-puppet
 [submodule "themes/puppet/"]
 	branch = scott-revisions
